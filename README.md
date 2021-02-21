@@ -8,4 +8,4 @@ Two RV in one fragment
 MVVM: use livedata in viewmodel and update RV by observers
 
 
-![Image of example](https://github.com/nhienvtq/TwoRecyclerviewOneFragment/blob/master/app/src/main/res/drawable/2r1fexample.png)
+![Image of example](https://github.com/nhienvtq/TwoRecyclerviewOneFragment/blob/master/app/src/main/res/drawable/tworvonefragexample.png)
