@@ -54,10 +54,6 @@ class LivedatalistFragment : Fragment(), OnItemRV1ClickListener, OnItemRV2ClickL
             myRVAdapter2.notifyDataSetChanged()
         })
 
-        myViewmodel.initdataList1(1,"apple", 3.5F, myViewmodel.myList1.value!!.size,0)
-        myViewmodel.initdataList1(2, "lemon", 2.5F, myViewmodel.myList1.value!!.size, 0)
-        myViewmodel.initdataList1(3,"orange", 1.0F, myViewmodel.myList1.value!!.size,0)
-        myViewmodel.initdataList1(4, "banana", 10F, myViewmodel.myList1.value!!.size,0)
     }
 
     private fun initRecyclerView(view: RecyclerView, adapter: TheRecyclerViewAdapter, dataList: ArrayList<CardModel>, quantityList: ArrayList<Int> ){

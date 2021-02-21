@@ -19,6 +19,10 @@ class LivedatalistViewModel(): ViewModel()  {
         _myList2.value = ArrayList(0)
         quantityList2 = ArrayList(0)
 
+        initdataList1(1,"apple", 3.5F, myList1.value!!.size,0)
+        initdataList1(2, "lemon", 2.5F,myList1.value!!.size, 0)
+        initdataList1(3,"orange", 1.0F,myList1.value!!.size,0)
+        initdataList1(4, "banana", 10F,myList1.value!!.size,0)
 
     }
 
