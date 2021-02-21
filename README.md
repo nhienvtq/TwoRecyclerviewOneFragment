@@ -8,3 +8,4 @@ add/remove item in Recyclerview 2 base on add button of Recyclerview 1
 MVVM: use livedata in viewmodel and update RV by observers
 
 
+https://ibb.co/pb0gTPk
