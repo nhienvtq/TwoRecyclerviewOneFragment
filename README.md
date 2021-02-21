@@ -1,7 +1,7 @@
 # TwoRecyclerviewOneFragment
 Two RV in one fragment
-initialize a list of data in Recyclerview 1
-add/remove item in Recyclerview 2 base on add button of Recyclerview 1
+- initialize a list of data in Recyclerview 1
+- add/remove item in Recyclerview 2 base on add button of Recyclerview 1
 - have quanlity list separate from Model = attach another list to Recyclerview
 
 
